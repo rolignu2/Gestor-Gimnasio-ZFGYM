@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectView>ShowAllFiles</ProjectView>
+    <PublishUrlHistory>https://www.dropbox.com/|https://www.dropbox.com/s/5c8798i9md68v0f/setup.exe/|www.dropbox.com/home/Gestor_Gym_Actualizacion/|C:\Users\rolando\Desktop\Nueva carpeta\|https://www.dropbox.com/home/Gestor_Gym_Actualizacion/</PublishUrlHistory>
+    <InstallUrlHistory>https://www.dropbox.com/s/5c8798i9md68v0f/setup.exe/</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <DebugSecurityZoneURL>https://www.dropbox.com/home/Gestor_Gym_Actualizacion</DebugSecurityZoneURL>
+  </PropertyGroup>
+</Project>

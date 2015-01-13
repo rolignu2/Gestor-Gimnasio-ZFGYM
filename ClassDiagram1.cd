@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ZONE_FITNESS_3._0_FINAL.PRINCIPAL">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="ZONE_FITNESS_3._0_FINAL.PRINCIPAL.Month_" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>PRINCIPAL.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>f72Vj/3n+qPKzN6wb3H95vQ7uvebv8+8T/o/yC3bbF0=</HashCode>
+      <FileName>PRINCIPAL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZONE_FITNESS_3._0_FINAL.CLASES.Ayuda">
+    <Position X="3" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CLASES\Ayuda.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZONE_FITNESS_3._0_FINAL.CLASES.ClaveProd">
+    <Position X="5.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAACAAAAAgAAAAgAABACAAEIAAA=</HashCode>
+      <FileName>CLASES\ClaveProd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

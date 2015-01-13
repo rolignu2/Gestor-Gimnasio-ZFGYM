@@ -1,0 +1,2 @@
+
+La función 'CURDATE' no está definida en la expresión.

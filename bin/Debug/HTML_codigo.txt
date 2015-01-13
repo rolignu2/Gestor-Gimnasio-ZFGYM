@@ -1,0 +1,62 @@
+<body>
+<p>&nbsp;</p>
+<p><strong>ZONE FITNESS GYM TE INVITA A RENOVAR TU MEMBRESIA, </strong></p>
+<p><strong>PARA MAS INFORMACION VISITE:</strong></p>
+<p><a title=""Subscribe to this feed."" href=""http://www.zonefitnessgym.com"" target=""_blank"">ZONE FITNESS GYM </a><br/>
+</p>
+<p><a title=""Subscribe to this feed."" href=""http://www.facebook.com/pages/San-Salvador/ZONE-FITNESS-GYM/37722100742"" target=""_blank"">ZONE FITNESS GYM FACEBOOK </a></p>
+<p>&nbsp;</p>
+<p><strong>PROMOCIONES:</strong>        </p>
+<table width=""300"" border=""1"">
+
+  <tr>
+            <td width=""77"">1 Mes</td>
+            <td width=""207"">$40.00 Todo Incluido</td>
+  </tr>
+          <tr>
+            <td>6 Meses</td>
+            <td>$200.00 Todo Incluido</td>
+
+          </tr>
+          <tr>
+            <td>1 Año</td>
+            <td>$350.00 Todo Incluido</td>
+          </tr>
+          <tr>
+            <td>Membresia<br />
+
+              Estudiantil</td>
+            <td>$25.00 Universitario<br />
+              $23.00 Colegio<br />
+              Al presentar Carnet</td>
+          </tr>
+          <tr>
+            <td>15 Dias</td>
+
+            <td>$23.00 Todo Incluido</td>
+          </tr>
+          <tr>
+            <td>1 Semana</td>
+            <td>$15.00 Todo Incluido</td>
+          </tr>
+          <tr>
+
+            <td>Tarjeta Para Viajeros</td>
+            <td>$40.00 Valida para 2 Meses<br />
+y 30 Visitas</td>
+          </tr>
+          <tr>
+            <td>1 dia</td>
+            <td>$5.00</td>
+
+          </tr>
+</table>
+
+
+
+<p>&nbsp;</p>
+<p>calle la reforma #225-B colonia san benito, Zona Rosa,</p>
+</p>
+
+
+</body>"

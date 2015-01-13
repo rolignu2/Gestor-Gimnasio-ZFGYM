@@ -1,0 +1,558 @@
+c:\users\roli\documents\visual studio 2010\Projects\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\bin\Debug\ZONE_FITNESS_3.0_FINAL.exe
+c:\users\roli\documents\visual studio 2010\Projects\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\bin\Debug\ZONE_FITNESS_3.0_FINAL.pdb
+c:\users\roli\documents\visual studio 2010\Projects\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\roli\documents\visual studio 2010\Projects\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.Form1.resources
+c:\users\roli\documents\visual studio 2010\Projects\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.Properties.Resources.resources
+c:\users\roli\documents\visual studio 2010\Projects\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\roli\documents\visual studio 2010\Projects\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\roli\documents\visual studio 2010\Projects\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3.0_FINAL.exe
+c:\users\roli\documents\visual studio 2010\Projects\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3.0_FINAL.pdb
+c:\users\roli\documents\visual studio 2010\Projects\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\Interop.ADODB.dll
+c:\users\roli\documents\visual studio 2010\Projects\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3.0_FINAL.csproj.ResolveComReference.cache
+c:\users\roli\documents\visual studio 2010\Projects\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.LOGIN.resources
+c:\users\roli\documents\visual studio 2010\Projects\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.PRINCIPAL.resources
+C:\Users\ROLI\Documents\Visual Studio 2010\Projects\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.PROPIEDADES.resources
+C:\Users\ROLI\documents\visual studio 2010\Projects\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\bin\Debug\ZONE_FITNESS_3.0_FINAL.exe.config
+C:\Users\ROLI\documents\visual studio 2010\Projects\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\bin\Debug\Interop.WMPLib.dll
+C:\Users\ROLI\documents\visual studio 2010\Projects\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ROLI\documents\visual studio 2010\Projects\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\ROLI\documents\visual studio 2010\Projects\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\ROLI\Documents\Visual Studio 2010\Projects\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.calendario.resources
+C:\Users\ROLI\documents\visual studio 2010\Projects\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.Form2.resources
+C:\Users\ROLI\documents\visual studio 2010\Projects\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\Interop.CrystalAuditAdminLib.dll
+C:\Users\ROLI\documents\visual studio 2010\Projects\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\Interop.CrystalAuditProxyServiceLib.dll
+C:\Users\ROLI\documents\visual studio 2010\Projects\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\Interop.CrystalConnectionPluginLib.dll
+C:\Users\ROLI\documents\visual studio 2010\Projects\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\Interop.CrystalEnterpriseLib.dll
+C:\Users\ROLI\documents\visual studio 2010\Projects\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\Interop.CrystalEventServerAdminLib.dll
+C:\Users\ROLI\documents\visual studio 2010\Projects\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\Interop.CrystalFileServerAdminLib.dll
+C:\Users\ROLI\documents\visual studio 2010\Projects\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\Interop.CrystalInfoStoreLib.dll
+C:\Users\ROLI\documents\visual studio 2010\Projects\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\Interop.CrystalJobServerAdminLib.dll
+C:\Users\ROLI\documents\visual studio 2010\Projects\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\Interop.CrystalLicenseKeyPluginLib.dll
+C:\Users\ROLI\documents\visual studio 2010\Projects\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\Interop.CrystalPluginMgrLib.dll
+C:\Users\ROLI\documents\visual studio 2010\Projects\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\Interop.LCC11.dll
+C:\Users\ROLI\documents\visual studio 2010\Projects\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.acerca.resources
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\Interop.LCC11.dll
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3.0_FINAL.csproj.ResolveComReference.cache
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\bin\Debug\Interop.WMPLib.dll
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.acerca.resources
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.calendario.resources
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.Form1.resources
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.Form2.resources
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.LOGIN.resources
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.PRINCIPAL.resources
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.Properties.Resources.resources
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.PROPIEDADES.resources
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.AYUDA.resources
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.RESPALDO.resources
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\Interop.ADOMD.dll
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.RUTINAS.resources
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.PRECIOS.resources
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.EMPLEADOS.resources
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.USER_RUTINAS_IZQUIERDA.resources
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.USER_RUTINA_CENTRO.resources
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.DETALLES_RUTINAS.resources
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.USER_RUTINA_ARRIBA.resources
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.RUTINA_ADD.resources
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.EDITAR_RUTINA.resources
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.RUTINA_CUERPO_HTML.resources
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.RUTINAS_CREADAS.resources
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.busqueda_avanzada.resources
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.CONTRASEÑA_LOGIN.resources
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.EMAIL_ESPERE.resources
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.seleccion_nombre_gym.resources
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL..7\ZONE_FITNESS_3.0_FINAL\bin\Debug\ZONE_FITNESS_3.0_FINAL.exe.config
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL..7\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL..7\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\Interop.ADOMD.dll
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL..7\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\Interop.LCC11.dll
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL..7\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL..7\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL..7\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3.0_FINAL.csproj.ResolveComReference.cache
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL..7\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3.0_FINAL.exe
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL..7\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3.0_FINAL.pdb
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL..7\ZONE_FITNESS_3.0_FINAL\bin\Debug\ZONE_FITNESS_3.0_FINAL.exe
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL..7\ZONE_FITNESS_3.0_FINAL\bin\Debug\ZONE_FITNESS_3.0_FINAL.pdb
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL..7\ZONE_FITNESS_3.0_FINAL\bin\Debug\Interop.WMPLib.dll
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL..7\ZONE_FITNESS_3.0_FINAL\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL..7\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL..7\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.acerca.resources
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL..7\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.AYUDA.resources
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL..7\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.busqueda_avanzada.resources
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL..7\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.calendario.resources
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL..7\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.CONTRASEÑA_LOGIN.resources
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL..7\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.DETALLES_RUTINAS.resources
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL..7\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.EDITAR_RUTINA.resources
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL..7\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.EMAIL_ESPERE.resources
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL..7\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.EMPLEADOS.resources
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL..7\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.Form1.resources
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL..7\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.Form2.resources
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL..7\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.LOGIN.resources
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL..7\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.PRECIOS.resources
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL..7\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.PRINCIPAL.resources
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL..7\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.Properties.Resources.resources
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL..7\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.PROPIEDADES.resources
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL..7\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.RESPALDO.resources
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL..7\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.RUTINAS.resources
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL..7\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.RUTINAS_CREADAS.resources
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL..7\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.RUTINA_ADD.resources
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL..7\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.RUTINA_CUERPO_HTML.resources
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL..7\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.seleccion_nombre_gym.resources
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL..7\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.USER_RUTINAS_IZQUIERDA.resources
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL..7\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.USER_RUTINA_ARRIBA.resources
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL..7\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.USER_RUTINA_CENTRO.resources
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL..7\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL..7\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL..7\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.ADMINISTRADOR_FORM.resources
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.ADMINISTRADOR_FORM.resources
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\bin\Debug\GESTOR_GIMNASIO_3.1.exe.config
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\bin\Debug\GESTOR_GIMNASIO_3.1.exe
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\bin\Debug\GESTOR_GIMNASIO_3.1.pdb
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\GESTOR_GIMNASIO_3.1.exe
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\GESTOR_GIMNASIO_3.1.pdb
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.PROGRESO_DESCARGA.resources
+L:\escritorio\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\bin\Debug\GESTOR_GIMNASIO_3.1.exe.config
+L:\escritorio\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\Interop.ADODB.dll
+L:\escritorio\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\Interop.ADOMD.dll
+L:\escritorio\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\Interop.LCC11.dll
+L:\escritorio\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\Interop.WMPLib.dll
+L:\escritorio\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\AxInterop.WMPLib.dll
+L:\escritorio\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3.0_FINAL.csproj.ResolveComReference.cache
+L:\escritorio\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\GESTOR_GIMNASIO_3.1.exe
+L:\escritorio\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\GESTOR_GIMNASIO_3.1.pdb
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.REGISTRAR_.resources
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.PRECIOS_TIENDA.resources
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.lockers.resources
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3.0_FINAL.csprojResolveAssemblyReference.cache
+C:\Users\ROLI\Desktop\ZONE_FITNESS_3.0_FINAL\ZONE_FITNESS_3.0_FINAL\obj\x86\Debug\ZONE_FITNESS_3.0_FINAL.csproj.GenerateResource.Cache
+C:\Users\ROLI\Desktop\Gestor_gym2011\Gestor gimnasio\bin\Debug\GESTOR_GIMNASIO_3.1.exe.config
+C:\Users\ROLI\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\ROLI\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\Interop.ADOMD.dll
+C:\Users\ROLI\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\Interop.LCC11.dll
+C:\Users\ROLI\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\ROLI\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\ROLI\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3.0_FINAL.csproj.ResolveComReference.cache
+C:\Users\ROLI\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\GESTOR_GIMNASIO_3.1.exe
+C:\Users\ROLI\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\GESTOR_GIMNASIO_3.1.pdb
+C:\Users\ROLI\Desktop\Gestor_gym2011\Gestor gimnasio\bin\Debug\GESTOR_GIMNASIO_3.1.exe
+C:\Users\ROLI\Desktop\Gestor_gym2011\Gestor gimnasio\bin\Debug\GESTOR_GIMNASIO_3.1.pdb
+C:\Users\ROLI\Desktop\Gestor_gym2011\Gestor gimnasio\bin\Debug\Interop.WMPLib.dll
+C:\Users\ROLI\Desktop\Gestor_gym2011\Gestor gimnasio\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ROLI\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3.0_FINAL.csprojResolveAssemblyReference.cache
+C:\Users\ROLI\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.acerca.resources
+C:\Users\ROLI\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.ADMINISTRADOR_FORM.resources
+C:\Users\ROLI\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.AYUDA.resources
+C:\Users\ROLI\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.busqueda_avanzada.resources
+C:\Users\ROLI\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.calendario.resources
+C:\Users\ROLI\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.CONTRASEÑA_LOGIN.resources
+C:\Users\ROLI\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.DETALLES_RUTINAS.resources
+C:\Users\ROLI\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.EDITAR_RUTINA.resources
+C:\Users\ROLI\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.EMAIL_ESPERE.resources
+C:\Users\ROLI\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.EMPLEADOS.resources
+C:\Users\ROLI\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.Form1.resources
+C:\Users\ROLI\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.Form2.resources
+C:\Users\ROLI\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.lockers.resources
+C:\Users\ROLI\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.LOGIN.resources
+C:\Users\ROLI\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.PRECIOS.resources
+C:\Users\ROLI\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.PRECIOS_TIENDA.resources
+C:\Users\ROLI\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.PRINCIPAL.resources
+C:\Users\ROLI\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.PROGRESO_DESCARGA.resources
+C:\Users\ROLI\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.PROPIEDADES.resources
+C:\Users\ROLI\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.REGISTRAR_.resources
+C:\Users\ROLI\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.RESPALDO.resources
+C:\Users\ROLI\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.RUTINAS.resources
+C:\Users\ROLI\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.RUTINAS_CREADAS.resources
+C:\Users\ROLI\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.RUTINA_ADD.resources
+C:\Users\ROLI\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.RUTINA_CUERPO_HTML.resources
+C:\Users\ROLI\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.seleccion_nombre_gym.resources
+C:\Users\ROLI\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.USER_RUTINAS_IZQUIERDA.resources
+C:\Users\ROLI\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.USER_RUTINA_ARRIBA.resources
+C:\Users\ROLI\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.USER_RUTINA_CENTRO.resources
+C:\Users\ROLI\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3.0_FINAL.csproj.GenerateResource.Cache
+C:\Users\ROLI\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\GestorGimnasio.Properties.Resources.resources
+C:\Users\ROLI\Desktop\Gestor_gym2011\Gestor gimnasio\bin\Debug\agsXMPP.xml
+C:\Users\ROLI\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\FSN_0._1.ChatForm.resources
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\Interop.ADOMD.dll
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\Interop.LCC11.dll
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\Interop.WMPLib.dll
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3.0_FINAL.csproj.ResolveComReference.cache
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\bin\Debug\Interop.WMPLib.dll
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\bin\Debug\AxInterop.WMPLib.dll
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3.0_FINAL.csprojResolveAssemblyReference.cache
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.ADMINISTRADOR_FORM.resources
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.AYUDA.resources
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.calendario.resources
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.CONTRASEÑA_LOGIN.resources
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.DETALLES_RUTINAS.resources
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.EDITAR_RUTINA.resources
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.EMAIL_ESPERE.resources
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.EMPLEADOS.resources
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.Form1.resources
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.Form2.resources
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.lockers.resources
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.LOGIN.resources
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.PRECIOS.resources
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.PRECIOS_TIENDA.resources
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.PRINCIPAL.resources
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.PROGRESO_DESCARGA.resources
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\GestorGimnasio.Properties.Resources.resources
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.PROPIEDADES.resources
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.REGISTRAR_.resources
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.RESPALDO.resources
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.RUTINAS.resources
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.RUTINAS_CREADAS.resources
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.RUTINA_ADD.resources
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.RUTINA_CUERPO_HTML.resources
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.seleccion_nombre_gym.resources
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.USER_RUTINAS_IZQUIERDA.resources
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.USER_RUTINA_ARRIBA.resources
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.USER_RUTINA_CENTRO.resources
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3.0_FINAL.csproj.GenerateResource.Cache
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\bin\Debug\GESTOR_GIMNASIO.exe.config
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\bin\Debug\GESTOR_GIMNASIO.exe
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\bin\Debug\GESTOR_GIMNASIO.pdb
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\bin\Debug\Interop.VSTOEE90.dll
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\bin\Debug\Interop.WMPLib.dll
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\bin\Debug\AxInterop.VSTOEE90.dll
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\Interop.ADOMD.dll
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\Interop.LCC11.dll
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\Interop.VSTOEE90.dll
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\AxInterop.VSTOEE90.dll
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3.0_FINAL.csproj.ResolveComReference.cache
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.ADMINISTRADOR_FORM.resources
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.AYUDA.resources
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.busqueda_avanzada.resources
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.calendario.resources
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.CONTRASEÑA_LOGIN.resources
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\GestorGimnasio.DATOS_SOCIOS.resources
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.DETALLES_RUTINAS.resources
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.EDITAR_RUTINA.resources
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.EMAIL_ESPERE.resources
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.EMPLEADOS.resources
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.Form1.resources
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.Form2.resources
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.lockers.resources
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.LOGIN.resources
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.PRECIOS.resources
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.PRECIOS_TIENDA.resources
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.PRINCIPAL.resources
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.PROGRESO_DESCARGA.resources
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\GestorGimnasio.Properties.Resources.resources
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.PROPIEDADES.resources
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.REGISTRAR_.resources
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.RESPALDO.resources
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.RUTINAS.resources
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.RUTINAS_CREADAS.resources
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.RUTINA_ADD.resources
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.RUTINA_CUERPO_HTML.resources
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.seleccion_nombre_gym.resources
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.USER_RUTINAS_IZQUIERDA.resources
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.USER_RUTINA_ARRIBA.resources
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.USER_RUTINA_CENTRO.resources
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\GESTOR_GIMNASIO.exe
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\GESTOR_GIMNASIO.pdb
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\GestorGimnasio.Promocion2x1.resources
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\GestorGimnasio.PROMOCIONES.resources
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\bin\Debug\Design.exe
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\bin\Debug\Design.pdb
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\GestorGimnasio.EMAILINEXISTENTES.resources
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\Interop.VSTOEE90.dll
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\AxInterop.VSTOEE90.dll
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\GESTOR_GIMNASIO.exe
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\GESTOR_GIMNASIO.pdb
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\bin\Debug\GESTOR_GIMNASIO.exe.config
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\bin\Debug\GESTOR_GIMNASIO.exe
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\bin\Debug\GESTOR_GIMNASIO.pdb
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\bin\Debug\Design.exe
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\bin\Debug\Design.pdb
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\bin\Debug\Interop.VSTOEE90.dll
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\bin\Debug\AxInterop.VSTOEE90.dll
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\GestorGimnasio.DATOS_SOCIOS.resources
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\GestorGimnasio.EMAILINEXISTENTES.resources
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\GestorGimnasio.Promocion2x1.resources
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\GestorGimnasio.PROMOCIONES.resources
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\GestorGimnasio.FrmMensaje.resources
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\GestorGimnasio.WebCamCapture.resources
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\bin\Debug\GESTOR_GIMNASIO.exe.config
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\Interop.LCC11.dll
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\Interop.VSTOEE90.dll
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\AxInterop.VSTOEE90.dll
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3.0_FINAL.csproj.ResolveComReference.cache
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\GESTOR_GIMNASIO.exe
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\GESTOR_GIMNASIO.pdb
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\bin\Debug\GESTOR_GIMNASIO.exe
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\bin\Debug\GESTOR_GIMNASIO.pdb
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\bin\Debug\Design.exe
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\bin\Debug\Design.pdb
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\bin\Debug\Interop.VSTOEE90.dll
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\bin\Debug\Interop.WMPLib.dll
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\bin\Debug\AxInterop.VSTOEE90.dll
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3.0_FINAL.csprojResolveAssemblyReference.cache
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.AYUDA.resources
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.calendario.resources
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.CONTRASEÑA_LOGIN.resources
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\GestorGimnasio.DATOS_SOCIOS.resources
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.DETALLES_RUTINAS.resources
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.EDITAR_RUTINA.resources
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.EMAIL_ESPERE.resources
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\GestorGimnasio.EMAILINEXISTENTES.resources
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.EMPLEADOS.resources
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.Form1.resources
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.Form2.resources
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.lockers.resources
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.LOGIN.resources
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.PRECIOS.resources
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.PRECIOS_TIENDA.resources
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.PRINCIPAL.resources
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.PROGRESO_DESCARGA.resources
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\GestorGimnasio.Promocion2x1.resources
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\GestorGimnasio.PROMOCIONES.resources
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\GestorGimnasio.Properties.Resources.resources
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.PROPIEDADES.resources
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.REGISTRAR_.resources
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.RUTINAS.resources
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.RUTINAS_CREADAS.resources
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.RUTINA_ADD.resources
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.RUTINA_CUERPO_HTML.resources
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.seleccion_nombre_gym.resources
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.USER_RUTINAS_IZQUIERDA.resources
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.USER_RUTINA_ARRIBA.resources
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.USER_RUTINA_CENTRO.resources
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\GestorGimnasio.WebCamCapture.resources
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3.0_FINAL.csproj.GenerateResource.Cache
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\GestorGimnasio.DireccionProveedor.resources
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\GestorGimnasio.MensajesTiempoReal.resources
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\GestorGimnasio.MontoTotal.resources
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\bin\Debug\GESTOR_GIMNASIO.exe.config
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\Interop.ADODB.dll
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\Interop.LCC11.dll
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\Interop.VSTOEE90.dll
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\Interop.WMPLib.dll
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\AxInterop.VSTOEE90.dll
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3.0_FINAL.csproj.ResolveComReference.cache
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\GESTOR_GIMNASIO.exe
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\GESTOR_GIMNASIO.pdb
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\bin\Debug\GESTOR_GIMNASIO.exe
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\bin\Debug\Design.exe
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\bin\Debug\Design.pdb
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3.0_FINAL.csprojResolveAssemblyReference.cache
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.AYUDA.resources
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.calendario.resources
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.CONTRASEÑA_LOGIN.resources
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\GestorGimnasio.DATOS_SOCIOS.resources
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.DETALLES_RUTINAS.resources
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\GestorGimnasio.DireccionProveedor.resources
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.EDITAR_RUTINA.resources
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.EMAIL_ESPERE.resources
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\GestorGimnasio.EMAILINEXISTENTES.resources
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.EMPLEADOS.resources
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.Form1.resources
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\GestorGimnasio.MensajesTiempoReal.resources
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\GestorGimnasio.MontoTotal.resources
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.Form2.resources
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.lockers.resources
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.LOGIN.resources
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.PRECIOS.resources
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.PRECIOS_TIENDA.resources
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.PRINCIPAL.resources
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.PROGRESO_DESCARGA.resources
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\GestorGimnasio.Promocion2x1.resources
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\GestorGimnasio.PROMOCIONES.resources
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\GestorGimnasio.Properties.Resources.resources
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.PROPIEDADES.resources
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.REGISTRAR_.resources
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.RUTINAS.resources
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.RUTINAS_CREADAS.resources
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.RUTINA_ADD.resources
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.RUTINA_CUERPO_HTML.resources
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.seleccion_nombre_gym.resources
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.USER_RUTINAS_IZQUIERDA.resources
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.USER_RUTINA_ARRIBA.resources
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.USER_RUTINA_CENTRO.resources
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\GestorGimnasio.WebCamCapture.resources
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3.0_FINAL.csproj.GenerateResource.Cache
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\bin\Debug\GESTOR_GIMNASIO.pdb
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\bin\Debug\Interop.VSTOEE90.dll
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\bin\Debug\Interop.WMPLib.dll
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\bin\Debug\AxInterop.VSTOEE90.dll
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\bin\Debug\AxInterop.WMPLib.dll
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\obj\x86\Debug\Interop.ADOMD.dll
+C:\Users\rolando\Desktop\Gestor gimnasio\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rolando\Desktop\Gestor gimnasio\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\rolando\Desktop\Gestor gimnasio\obj\x86\Debug\Interop.ADOMD.dll
+C:\Users\rolando\Desktop\Gestor gimnasio\obj\x86\Debug\Interop.LCC11.dll
+C:\Users\rolando\Desktop\Gestor gimnasio\obj\x86\Debug\Interop.VSTOEE90.dll
+C:\Users\rolando\Desktop\Gestor gimnasio\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\rolando\Desktop\Gestor gimnasio\obj\x86\Debug\AxInterop.VSTOEE90.dll
+C:\Users\rolando\Desktop\Gestor gimnasio\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\rolando\Desktop\Gestor gimnasio\obj\x86\Debug\GESTOR_GIMNASIO.exe
+C:\Users\rolando\Desktop\Gestor gimnasio\obj\x86\Debug\GESTOR_GIMNASIO.pdb
+C:\Users\rolando\Desktop\Gestor gimnasio\bin\Debug\GESTOR_GIMNASIO.exe.config
+C:\Users\rolando\Desktop\Gestor gimnasio\bin\Debug\GESTOR_GIMNASIO.exe
+C:\Users\rolando\Desktop\Gestor gimnasio\bin\Debug\GESTOR_GIMNASIO.pdb
+C:\Users\rolando\Desktop\Gestor gimnasio\bin\Debug\Design.exe
+C:\Users\rolando\Desktop\Gestor gimnasio\bin\Debug\Design.pdb
+C:\Users\rolando\Desktop\Gestor gimnasio\bin\Debug\Interop.VSTOEE90.dll
+C:\Users\rolando\Desktop\Gestor gimnasio\bin\Debug\Interop.WMPLib.dll
+C:\Users\rolando\Desktop\Gestor gimnasio\bin\Debug\AxInterop.VSTOEE90.dll
+C:\Users\rolando\Desktop\Gestor gimnasio\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\rolando\Desktop\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3.0_FINAL.csproj.ResolveComReference.cache
+C:\Users\rolando\Desktop\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.AYUDA.resources
+C:\Users\rolando\Desktop\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.calendario.resources
+C:\Users\rolando\Desktop\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.CONTRASEÑA_LOGIN.resources
+C:\Users\rolando\Desktop\Gestor gimnasio\obj\x86\Debug\GestorGimnasio.DATOS_SOCIOS.resources
+C:\Users\rolando\Desktop\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.DETALLES_RUTINAS.resources
+C:\Users\rolando\Desktop\Gestor gimnasio\obj\x86\Debug\GestorGimnasio.DireccionProveedor.resources
+C:\Users\rolando\Desktop\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.EDITAR_RUTINA.resources
+C:\Users\rolando\Desktop\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.EMAIL_ESPERE.resources
+C:\Users\rolando\Desktop\Gestor gimnasio\obj\x86\Debug\GestorGimnasio.EMAILINEXISTENTES.resources
+C:\Users\rolando\Desktop\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.EMPLEADOS.resources
+C:\Users\rolando\Desktop\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.Form1.resources
+C:\Users\rolando\Desktop\Gestor gimnasio\obj\x86\Debug\GestorGimnasio.MensajesTiempoReal.resources
+C:\Users\rolando\Desktop\Gestor gimnasio\obj\x86\Debug\GestorGimnasio.MontoTotal.resources
+C:\Users\rolando\Desktop\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.Form2.resources
+C:\Users\rolando\Desktop\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.lockers.resources
+C:\Users\rolando\Desktop\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.LOGIN.resources
+C:\Users\rolando\Desktop\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.PRECIOS.resources
+C:\Users\rolando\Desktop\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.PRECIOS_TIENDA.resources
+C:\Users\rolando\Desktop\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.PRINCIPAL.resources
+C:\Users\rolando\Desktop\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.PROGRESO_DESCARGA.resources
+C:\Users\rolando\Desktop\Gestor gimnasio\obj\x86\Debug\GestorGimnasio.Promocion2x1.resources
+C:\Users\rolando\Desktop\Gestor gimnasio\obj\x86\Debug\GestorGimnasio.PROMOCIONES.resources
+C:\Users\rolando\Desktop\Gestor gimnasio\obj\x86\Debug\GestorGimnasio.Properties.Resources.resources
+C:\Users\rolando\Desktop\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.PROPIEDADES.resources
+C:\Users\rolando\Desktop\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.REGISTRAR_.resources
+C:\Users\rolando\Desktop\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.RUTINAS.resources
+C:\Users\rolando\Desktop\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.RUTINAS_CREADAS.resources
+C:\Users\rolando\Desktop\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.RUTINA_ADD.resources
+C:\Users\rolando\Desktop\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.RUTINA_CUERPO_HTML.resources
+C:\Users\rolando\Desktop\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.seleccion_nombre_gym.resources
+C:\Users\rolando\Desktop\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.USER_RUTINAS_IZQUIERDA.resources
+C:\Users\rolando\Desktop\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.USER_RUTINA_ARRIBA.resources
+C:\Users\rolando\Desktop\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.USER_RUTINA_CENTRO.resources
+C:\Users\rolando\Desktop\Gestor gimnasio\obj\x86\Debug\GestorGimnasio.WebCamCapture.resources
+C:\Users\rolando\Desktop\Gestor gimnasio\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\rolando\Desktop\Gestor gimnasio\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3.0_FINAL.csprojResolveAssemblyReference.cache
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\Interop.ADODB.dll
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\Interop.ADOMD.dll
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\Interop.LCC11.dll
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\Interop.VSTOEE90.dll
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\Interop.WMPLib.dll
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\AxInterop.VSTOEE90.dll
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\GESTOR_GIMNASIO.exe
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\GESTOR_GIMNASIO.pdb
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3.0_FINAL.csproj.ResolveComReference.cache
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.AYUDA.resources
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.calendario.resources
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.CONTRASEÑA_LOGIN.resources
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\GestorGimnasio.DATOS_SOCIOS.resources
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.DETALLES_RUTINAS.resources
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\GestorGimnasio.DireccionProveedor.resources
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.EDITAR_RUTINA.resources
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.EMAIL_ESPERE.resources
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\GestorGimnasio.EMAILINEXISTENTES.resources
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.EMPLEADOS.resources
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.Form1.resources
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\GestorGimnasio.MensajesTiempoReal.resources
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\GestorGimnasio.MontoTotal.resources
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.Form2.resources
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.lockers.resources
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.LOGIN.resources
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.PRECIOS.resources
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.PRECIOS_TIENDA.resources
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.PRINCIPAL.resources
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.PROGRESO_DESCARGA.resources
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\GestorGimnasio.Promocion2x1.resources
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\GestorGimnasio.PROMOCIONES.resources
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\GestorGimnasio.Properties.Resources.resources
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.PROPIEDADES.resources
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.REGISTRAR_.resources
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.RUTINAS.resources
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.RUTINAS_CREADAS.resources
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.RUTINA_ADD.resources
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.RUTINA_CUERPO_HTML.resources
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.seleccion_nombre_gym.resources
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.USER_RUTINAS_IZQUIERDA.resources
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.USER_RUTINA_ARRIBA.resources
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.USER_RUTINA_CENTRO.resources
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\GestorGimnasio.WebCamCapture.resources
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3.0_FINAL.csproj.GenerateResource.Cache
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\bin\Debug\GESTOR_GIMNASIO.exe.config
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\bin\Debug\GESTOR_GIMNASIO.exe
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\bin\Debug\GESTOR_GIMNASIO.pdb
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\bin\Debug\Design.exe
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\bin\Debug\Design.pdb
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\bin\Debug\Interop.VSTOEE90.dll
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\bin\Debug\Interop.WMPLib.dll
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\bin\Debug\AxInterop.VSTOEE90.dll
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\bin\Debug\GESTOR_GIMNASIO.exe.config
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\Interop.ADOMD.dll
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\Interop.VSTOEE90.dll
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\AxInterop.VSTOEE90.dll
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3.0_FINAL.csproj.ResolveComReference.cache
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\GESTOR_GIMNASIO.exe
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\GESTOR_GIMNASIO.pdb
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3.0_FINAL.csprojResolveAssemblyReference.cache
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.AYUDA.resources
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.calendario.resources
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.CONTRASEÑA_LOGIN.resources
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\GestorGimnasio.DATOS_SOCIOS.resources
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.DETALLES_RUTINAS.resources
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\GestorGimnasio.DireccionProveedor.resources
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.EDITAR_RUTINA.resources
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.EMAIL_ESPERE.resources
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\GestorGimnasio.EMAILINEXISTENTES.resources
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.EMPLEADOS.resources
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.Form1.resources
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\GestorGimnasio.MensajesTiempoReal.resources
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\GestorGimnasio.MontoTotal.resources
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.Form2.resources
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.lockers.resources
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.LOGIN.resources
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.PRECIOS.resources
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.PRECIOS_TIENDA.resources
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.PRINCIPAL.resources
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.PROGRESO_DESCARGA.resources
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\GestorGimnasio.Promocion2x1.resources
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\GestorGimnasio.PROMOCIONES.resources
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\GestorGimnasio.Properties.Resources.resources
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.PROPIEDADES.resources
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.REGISTRAR_.resources
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.RUTINAS.resources
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.RUTINAS_CREADAS.resources
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.RUTINA_ADD.resources
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.RUTINA_CUERPO_HTML.resources
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.seleccion_nombre_gym.resources
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.USER_RUTINAS_IZQUIERDA.resources
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.USER_RUTINA_ARRIBA.resources
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3._0_FINAL.USER_RUTINA_CENTRO.resources
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\GestorGimnasio.WebCamCapture.resources
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\obj\x86\Debug\ZONE_FITNESS_3.0_FINAL.csproj.GenerateResource.Cache
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\bin\Debug\GESTOR_GIMNASIO.exe
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\bin\Debug\GESTOR_GIMNASIO.pdb
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\bin\Debug\Design.exe
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\bin\Debug\Design.pdb
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\bin\Debug\Interop.VSTOEE90.dll
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\bin\Debug\Interop.WMPLib.dll
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\bin\Debug\AxInterop.VSTOEE90.dll
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\bin\Debug\AxInterop.WMPLib.dll

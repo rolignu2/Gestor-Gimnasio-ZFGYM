@@ -1,0 +1,615 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3291B35E-EAF7-4120-9B29-9DE6A3A1F31D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GestorGimnasio</RootNamespace>
+    <AssemblyName>GESTOR_GIMNASIO</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>true</IsWebBootstrapper>
+    <PublishUrl>https://www.dropbox.com/</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Web</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <InstallUrl>https://www.dropbox.com/s/5c8798i9md68v0f/setup.exe/</InstallUrl>
+    <ApplicationRevision>4</ApplicationRevision>
+    <ApplicationVersion>3.1.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>zfgymicono.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyOriginatorKeyFile>gestor_gym.snk</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>false</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>C20994B81306AE1FB6B6411B5D2194BEBD8EAE39</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>ZONE_FITNESS_3.0_FINAL_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AForge.Video, Version=2.1.0.0, Culture=neutral, PublicKeyToken=cbfb6e07d173c401, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\AForge.Video.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video.DirectShow, Version=2.1.0.0, Culture=neutral, PublicKeyToken=61ea4348d43881b7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\AForge.Video.DirectShow.dll</HintPath>
+    </Reference>
+    <Reference Include="agsXMPP, Version=0.9.2.0, Culture=neutral, PublicKeyToken=ff839b81f1debe86, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\agsXMPP.dll</HintPath>
+    </Reference>
+    <Reference Include="EffectLibrary, Version=0.5.0.1, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\EffectLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.0.5.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="UpdateLib, Version=1.71.64.25, Culture=neutral, PublicKeyToken=643103ebabaf8eda, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\UpdateLib.dll</HintPath>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AYUDA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AYUDA.Designer.cs">
+      <DependentUpon>AYUDA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CALENDARIO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CALENDARIO.Designer.cs">
+      <DependentUpon>CALENDARIO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CLASES\Ayuda.cs" />
+    <Compile Include="CLASES\BuferGrid.cs" />
+    <Compile Include="CLASES\Buscador.cs" />
+    <Compile Include="CLASES\ClaveProd.cs" />
+    <Compile Include="CLASES\conectar_.cs" />
+    <Compile Include="CLASES\contraseña_segura.cs" />
+    <Compile Include="CLASES\Controles_dinamicos.cs" />
+    <Compile Include="CLASES\E-mail.cs" />
+    <Compile Include="CLASES\EnvioDatos_Socios.cs" />
+    <Compile Include="CLASES\Ftp.cs" />
+    <Compile Include="CLASES\ImprimirGrilla.cs" />
+    <Compile Include="CLASES\Informe_Errores.cs" />
+    <Compile Include="CLASES\inicio_comprobar.cs" />
+    <Compile Include="CLASES\MATAR_PROCESO.cs" />
+    <Compile Include="CLASES\Seguridad.cs" />
+    <Compile Include="CLASES\titulos.cs" />
+    <Compile Include="CLASES\OPCIONES.cs" />
+    <Compile Include="CLASES\respaldo.cs" />
+    <Compile Include="CLASES\Update.cs" />
+    <Compile Include="CLASES\ver_existe_socio.cs" />
+    <Compile Include="CONTRASEÑA_LOGIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CONTRASEÑA_LOGIN.Designer.cs">
+      <DependentUpon>CONTRASEÑA_LOGIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DATOS_SOCIOS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DATOS_SOCIOS.Designer.cs">
+      <DependentUpon>DATOS_SOCIOS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DETALLES_RUTINAS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DETALLES_RUTINAS.Designer.cs">
+      <DependentUpon>DETALLES_RUTINAS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DireccionProveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DireccionProveedor.Designer.cs">
+      <DependentUpon>DireccionProveedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EDITAR_RUTINA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDITAR_RUTINA.Designer.cs">
+      <DependentUpon>EDITAR_RUTINA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CARGANDO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CARGANDO.Designer.cs">
+      <DependentUpon>CARGANDO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EMAILINEXISTENTES.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EMAILINEXISTENTES.Designer.cs">
+      <DependentUpon>EMAILINEXISTENTES.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EMPLEADOS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EMPLEADOS.Designer.cs">
+      <DependentUpon>EMPLEADOS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="INICIO_LOG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="INICIO_LOG.Designer.cs">
+      <DependentUpon>INICIO_LOG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MensajesTiempoReal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MensajesTiempoReal.Designer.cs">
+      <DependentUpon>MensajesTiempoReal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MontoTotal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MontoTotal.Designer.cs">
+      <DependentUpon>MontoTotal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PAGOS_TOTALES.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PAGOS_TOTALES.Designer.cs">
+      <DependentUpon>PAGOS_TOTALES.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LOCKERS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LOCKERS.Designer.cs">
+      <DependentUpon>LOCKERS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LOGIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LOGIN.Designer.cs">
+      <DependentUpon>LOGIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRECIOS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRECIOS.Designer.cs">
+      <DependentUpon>PRECIOS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRECIOS_TIENDA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRECIOS_TIENDA.Designer.cs">
+      <DependentUpon>PRECIOS_TIENDA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRINCIPAL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRINCIPAL.Designer.cs">
+      <DependentUpon>PRINCIPAL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="PROGRESO_DESCARGA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PROGRESO_DESCARGA.Designer.cs">
+      <DependentUpon>PROGRESO_DESCARGA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Promocion2x1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Promocion2x1.Designer.cs">
+      <DependentUpon>Promocion2x1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PROMOCIONES.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PROMOCIONES.Designer.cs">
+      <DependentUpon>PROMOCIONES.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PROPIEDADES.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PROPIEDADES.Designer.cs">
+      <DependentUpon>PROPIEDADES.cs</DependentUpon>
+    </Compile>
+    <Compile Include="REGISTRAR_.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REGISTRAR_.Designer.cs">
+      <DependentUpon>REGISTRAR_.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RUTINAS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RUTINAS.Designer.cs">
+      <DependentUpon>RUTINAS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RUTINAS_CREADAS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RUTINAS_CREADAS.Designer.cs">
+      <DependentUpon>RUTINAS_CREADAS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RUTINA_ADD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RUTINA_ADD.Designer.cs">
+      <DependentUpon>RUTINA_ADD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RUTINA_CUERPO_HTML.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RUTINA_CUERPO_HTML.Designer.cs">
+      <DependentUpon>RUTINA_CUERPO_HTML.cs</DependentUpon>
+    </Compile>
+    <Compile Include="seleccion_nombre_gym.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="seleccion_nombre_gym.Designer.cs">
+      <DependentUpon>seleccion_nombre_gym.cs</DependentUpon>
+    </Compile>
+    <Compile Include="USER_RUTINAS_IZQUIERDA.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="USER_RUTINAS_IZQUIERDA.Designer.cs">
+      <DependentUpon>USER_RUTINAS_IZQUIERDA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="USER_RUTINA_ARRIBA.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="USER_RUTINA_ARRIBA.Designer.cs">
+      <DependentUpon>USER_RUTINA_ARRIBA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="USER_RUTINA_CENTRO.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="USER_RUTINA_CENTRO.Designer.cs">
+      <DependentUpon>USER_RUTINA_CENTRO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WebCamCapture.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WebCamCapture.Designer.cs">
+      <DependentUpon>WebCamCapture.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AYUDA.resx">
+      <DependentUpon>AYUDA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CALENDARIO.resx">
+      <DependentUpon>CALENDARIO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CONTRASEÑA_LOGIN.resx">
+      <DependentUpon>CONTRASEÑA_LOGIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DATOS_SOCIOS.resx">
+      <DependentUpon>DATOS_SOCIOS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DETALLES_RUTINAS.resx">
+      <DependentUpon>DETALLES_RUTINAS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DireccionProveedor.resx">
+      <DependentUpon>DireccionProveedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDITAR_RUTINA.resx">
+      <DependentUpon>EDITAR_RUTINA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CARGANDO.resx">
+      <DependentUpon>CARGANDO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EMAILINEXISTENTES.resx">
+      <DependentUpon>EMAILINEXISTENTES.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EMPLEADOS.resx">
+      <DependentUpon>EMPLEADOS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="INICIO_LOG.resx">
+      <DependentUpon>INICIO_LOG.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MensajesTiempoReal.resx">
+      <DependentUpon>MensajesTiempoReal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MontoTotal.resx">
+      <DependentUpon>MontoTotal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PAGOS_TOTALES.resx">
+      <DependentUpon>PAGOS_TOTALES.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LOCKERS.resx">
+      <DependentUpon>LOCKERS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LOGIN.resx">
+      <DependentUpon>LOGIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRECIOS.resx">
+      <DependentUpon>PRECIOS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRECIOS_TIENDA.resx">
+      <DependentUpon>PRECIOS_TIENDA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRINCIPAL.resx">
+      <DependentUpon>PRINCIPAL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PROGRESO_DESCARGA.resx">
+      <DependentUpon>PROGRESO_DESCARGA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Promocion2x1.resx">
+      <DependentUpon>Promocion2x1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PROMOCIONES.resx">
+      <DependentUpon>PROMOCIONES.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="PROPIEDADES.resx">
+      <DependentUpon>PROPIEDADES.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REGISTRAR_.resx">
+      <DependentUpon>REGISTRAR_.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RUTINAS.resx">
+      <DependentUpon>RUTINAS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RUTINAS_CREADAS.resx">
+      <DependentUpon>RUTINAS_CREADAS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RUTINA_ADD.resx">
+      <DependentUpon>RUTINA_ADD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RUTINA_CUERPO_HTML.resx">
+      <DependentUpon>RUTINA_CUERPO_HTML.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="seleccion_nombre_gym.resx">
+      <DependentUpon>seleccion_nombre_gym.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="USER_RUTINAS_IZQUIERDA.resx">
+      <DependentUpon>USER_RUTINAS_IZQUIERDA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="USER_RUTINA_ARRIBA.resx">
+      <DependentUpon>USER_RUTINA_ARRIBA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="USER_RUTINA_CENTRO.resx">
+      <DependentUpon>USER_RUTINA_CENTRO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WebCamCapture.resx">
+      <DependentUpon>WebCamCapture.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="ClassDiagram1.cd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="gestor_gym.snk" />
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="ZONE_FITNESS_3.0_FINAL_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\iconos\icono-buscar.png" />
+    <None Include="bin\Debug\iconos\iconoCerrar2.png" />
+    <None Include="bin\Debug\iconos\icono.jpg" />
+    <None Include="Resources\icono_calculadora.png" />
+    <None Include="Resources\NO_IMG.jpg" />
+    <None Include="Resources\iconocbuscarimagen.jpg" />
+    <None Include="Resources\save1.png" />
+    <None Include="Resources\11339.jpg" />
+    <None Include="Resources\icono_imprimir.gif" />
+    <None Include="bin\Debug\url.gif" />
+    <None Include="Resources\cargando.gif" />
+    <Content Include="Resources\facebook_icono.png" />
+    <Content Include="Resources\favicon.ico" />
+    <None Include="Resources\loading.gif" />
+    <Content Include="Resources\logozfg1.png" />
+    <Content Include="zfgymicono.ico" />
+    <None Include="Resources\logozfg.png" />
+    <None Include="bin\Debug\IMG_SOCIOS\NO_IMG.jpg" />
+    <Content Include="bin\Debug\CLV_P.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <None Include="bin\Debug\iconos\blue-thunder-lightning-sky.png" />
+    <None Include="bin\Debug\iconos\delete.png" />
+    <None Include="bin\Debug\iconos\Delete Icon.jpg" />
+    <None Include="bin\Debug\FondoEstandarv1.2.png" />
+    <Content Include="favicon.ico" />
+    <Content Include="icono_maestro.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="ADODB">
+      <Guid>{B691E011-1797-432E-907A-4D8C69339129}</Guid>
+      <VersionMajor>6</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="ADOMD">
+      <Guid>{22813728-8BD3-11D0-B4EF-00A0C9138CA4}</Guid>
+      <VersionMajor>6</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="AxVSTOEE90">
+      <Guid>{E985809A-84A6-4F35-86D6-9B52119AB9D7}</Guid>
+      <VersionMajor>9</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="LCC11">
+      <Guid>{EDCD5812-6A06-43C3-AFAC-46EF5D14E22C}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>7</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VSTOEE90">
+      <Guid>{E985809A-84A6-4F35-86D6-9B52119AB9D7}</Guid>
+      <VersionMajor>9</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Design\Design.csproj">
+      <Project>{DA00B3D9-7CE5-4634-A7D2-9A6D3F92C382}</Project>
+      <Name>Design</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

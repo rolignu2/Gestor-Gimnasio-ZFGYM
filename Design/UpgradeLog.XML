@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Design">
+</Property><Property Name="Archivo de la solución" Value="C:\Users\rolando\Desktop\Design\Design.sln">
+</Property><Property Name="Date" Value="martes, 09 de octubre de 2012">
+</Property><Property Name="Time" Value="0:42">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Design.sln" Description="La copia C:\Users\rolando\Desktop\Design\Backup\Design.sln del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="Design" Source="Design.csproj" Description="Se realizó correctamente la copia de seguridad del archivo de proyecto C:\Users\rolando\Desktop\Design\Backup\Design.csproj">
+</Event><Event ErrorLevel="0" Project="Design" Source="Design.csproj.user" Description="La copia de seguridad C:\Users\rolando\Desktop\Design\Backup\Design.csproj.user del archivo se ha creado correctamente">
+</Event><Event ErrorLevel="0" Project="Design" Source="Editor.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\rolando\Desktop\Design\Backup\Editor.cs">
+</Event><Event ErrorLevel="0" Project="Design" Source="Editor.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\rolando\Desktop\Design\Backup\Editor.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Design" Source="EditorForm.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\rolando\Desktop\Design\Backup\EditorForm.cs">
+</Event><Event ErrorLevel="0" Project="Design" Source="EditorForm.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\rolando\Desktop\Design\Backup\EditorForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Design" Source="LinkDialog.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\rolando\Desktop\Design\Backup\LinkDialog.cs">
+</Event><Event ErrorLevel="0" Project="Design" Source="LinkDialog.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\rolando\Desktop\Design\Backup\LinkDialog.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Design" Source="Program.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\rolando\Desktop\Design\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="Design" Source="Properties\AssemblyInfo.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\rolando\Desktop\Design\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Design" Source="Properties\Resources.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\rolando\Desktop\Design\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Design" Source="Properties\Settings.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\rolando\Desktop\Design\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Design" Source="SearchDialog.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\rolando\Desktop\Design\Backup\SearchDialog.cs">
+</Event><Event ErrorLevel="0" Project="Design" Source="SearchDialog.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\rolando\Desktop\Design\Backup\SearchDialog.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Design" Source="TextInsertForm.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\rolando\Desktop\Design\Backup\TextInsertForm.cs">
+</Event><Event ErrorLevel="0" Project="Design" Source="TextInsertForm.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\rolando\Desktop\Design\Backup\TextInsertForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Design" Source="Properties\Settings.settings" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\rolando\Desktop\Design\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Design" Source="Resources\bold.bmp" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\rolando\Desktop\Design\Backup\Resources\bold.bmp">
+</Event><Event ErrorLevel="0" Project="Design" Source="Resources\italic.bmp" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\rolando\Desktop\Design\Backup\Resources\italic.bmp">
+</Event><Event ErrorLevel="0" Project="Design" Source="app.config" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\rolando\Desktop\Design\Backup\app.config">
+</Event><Event ErrorLevel="0" Project="Design" Source="Resources\color.bmp" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\rolando\Desktop\Design\Backup\Resources\color.bmp">
+</Event><Event ErrorLevel="0" Project="Design" Source="Resources\link.bmp" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\rolando\Desktop\Design\Backup\Resources\link.bmp">
+</Event><Event ErrorLevel="0" Project="Design" Source="Resources\right_arrow.bmp" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\rolando\Desktop\Design\Backup\Resources\right_arrow.bmp">
+</Event><Event ErrorLevel="0" Project="Design" Source="Resources\backcolor.bmp" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\rolando\Desktop\Design\Backup\Resources\backcolor.bmp">
+</Event><Event ErrorLevel="0" Project="Design" Source="Resources\cj.bmp" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\rolando\Desktop\Design\Backup\Resources\cj.bmp">
+</Event><Event ErrorLevel="0" Project="Design" Source="Resources\fj.bmp" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\rolando\Desktop\Design\Backup\Resources\fj.bmp">
+</Event><Event ErrorLevel="0" Project="Design" Source="Resources\indent.bmp" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\rolando\Desktop\Design\Backup\Resources\indent.bmp">
+</Event><Event ErrorLevel="0" Project="Design" Source="Resources\lj.bmp" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\rolando\Desktop\Design\Backup\Resources\lj.bmp">
+</Event><Event ErrorLevel="0" Project="Design" Source="Resources\ol.bmp" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\rolando\Desktop\Design\Backup\Resources\ol.bmp">
+</Event><Event ErrorLevel="0" Project="Design" Source="Resources\outdent.bmp" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\rolando\Desktop\Design\Backup\Resources\outdent.bmp">
+</Event><Event ErrorLevel="0" Project="Design" Source="Resources\rj.bmp" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\rolando\Desktop\Design\Backup\Resources\rj.bmp">
+</Event><Event ErrorLevel="0" Project="Design" Source="Resources\underscore.bmp" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\rolando\Desktop\Design\Backup\Resources\underscore.bmp">
+</Event><Event ErrorLevel="0" Project="Design" Source="Resources\uol.bmp" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\rolando\Desktop\Design\Backup\Resources\uol.bmp">
+</Event><Event ErrorLevel="0" Project="Design" Source="Editor.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\rolando\Desktop\Design\Backup\Editor.resx">
+</Event><Event ErrorLevel="0" Project="Design" Source="EditorForm.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\rolando\Desktop\Design\Backup\EditorForm.resx">
+</Event><Event ErrorLevel="0" Project="Design" Source="LinkDialog.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\rolando\Desktop\Design\Backup\LinkDialog.resx">
+</Event><Event ErrorLevel="0" Project="Design" Source="Properties\Resources.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\rolando\Desktop\Design\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Design" Source="SearchDialog.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\rolando\Desktop\Design\Backup\SearchDialog.resx">
+</Event><Event ErrorLevel="0" Project="Design" Source="TextInsertForm.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\rolando\Desktop\Design\Backup\TextInsertForm.resx">
+</Event><Event ErrorLevel="1" Project="Design" Source="Design.csproj" Description="La versión de destino de su proyecto es .NET Framework 2.0 ó 3.0. Si el proyecto utiliza ensamblados que requieren una versión más reciente de .NET Framework, no se podrá compilar. Puede cambiar la versión de .NET Framework haciendo clic en Propiedades en el menú del proyecto y seleccionando una nueva versión en el cuadro desplegable '.NET Framework'. (En Visual Basic, haga clic en el botón 'Opciones avanzadas del compilador...' en la pestaña Compilar).">
+</Event><Event ErrorLevel="0" Project="Design" Source="Design.csproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="Design" Source="Design.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Design.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="Design.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Design" Source="Design.csproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event></UpgradeLog>

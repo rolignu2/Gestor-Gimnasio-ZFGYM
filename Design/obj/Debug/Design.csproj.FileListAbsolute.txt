@@ -1,0 +1,117 @@
+C:\Users\rolando\Desktop\Design\bin\Debug\Design.exe.config
+C:\Users\rolando\Desktop\Design\obj\Debug\Design.csproj.ResolveComReference.cache
+C:\Users\rolando\Desktop\Design\bin\Debug\Design.exe
+C:\Users\rolando\Desktop\Design\bin\Debug\Design.pdb
+C:\Users\rolando\Desktop\Design\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rolando\Desktop\Design\obj\Debug\Design.Editor.resources
+C:\Users\rolando\Desktop\Design\obj\Debug\Design.EditorForm.resources
+C:\Users\rolando\Desktop\Design\obj\Debug\Design.LinkDialog.resources
+C:\Users\rolando\Desktop\Design\obj\Debug\Design.Properties.Resources.resources
+C:\Users\rolando\Desktop\Design\obj\Debug\Design.SearchDialog.resources
+C:\Users\rolando\Desktop\Design\obj\Debug\Design.TextInsertForm.resources
+C:\Users\rolando\Desktop\Design\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\rolando\Desktop\Design\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\rolando\Desktop\Design\obj\Debug\Design.exe
+C:\Users\rolando\Desktop\Design\obj\Debug\Design.pdb
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\Design\bin\Debug\Design.exe.config
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\Design\bin\Debug\Design.exe
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\Design\bin\Debug\Design.pdb
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\Design\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\Design\obj\Debug\Design.csproj.ResolveComReference.cache
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\Design\obj\Debug\Design.Editor.resources
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\Design\obj\Debug\Design.EditorForm.resources
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\Design\obj\Debug\Design.LinkDialog.resources
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\Design\obj\Debug\Design.Properties.Resources.resources
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\Design\obj\Debug\Design.SearchDialog.resources
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\Design\obj\Debug\Design.TextInsertForm.resources
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\Design\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\Design\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\Design\obj\Debug\Design.exe
+C:\Users\rolando\Desktop\Gestor_gym2011\Gestor gimnasio\Design\obj\Debug\Design.pdb
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\Design\bin\Debug\Design.exe.config
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\Design\bin\Debug\Design.exe
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\Design\bin\Debug\Design.pdb
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\Design\obj\Debug\Design.csproj.ResolveComReference.cache
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\Design\obj\Debug\Design.Editor.resources
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\Design\obj\Debug\Design.EditorForm.resources
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\Design\obj\Debug\Design.LinkDialog.resources
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\Design\obj\Debug\Design.Properties.Resources.resources
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\Design\obj\Debug\Design.SearchDialog.resources
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\Design\obj\Debug\Design.TextInsertForm.resources
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\Design\obj\Debug\Design.csproj.GenerateResource.Cache
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\Design\obj\Debug\Design.exe
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\Design\obj\Debug\Design.pdb
+D:\Lenguajes de programacion\Gestor_gym2011\Gestor gimnasio\Design\obj\Debug\Design.csprojResolveAssemblyReference.cache
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\Design\bin\Debug\Design.exe.config
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\Design\bin\Debug\Design.exe
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\Design\bin\Debug\Design.pdb
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\Design\obj\Debug\Design.csprojResolveAssemblyReference.cache
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\Design\obj\Debug\Design.csproj.ResolveComReference.cache
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\Design\obj\Debug\Design.Editor.resources
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\Design\obj\Debug\Design.EditorForm.resources
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\Design\obj\Debug\Design.LinkDialog.resources
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\Design\obj\Debug\Design.Properties.Resources.resources
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\Design\obj\Debug\Design.SearchDialog.resources
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\Design\obj\Debug\Design.TextInsertForm.resources
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\Design\obj\Debug\Design.csproj.GenerateResource.Cache
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\Design\obj\Debug\Design.exe
+C:\Users\rolandoantonio\Desktop\Gestor_gym2011\Gestor gimnasio\Design\obj\Debug\Design.pdb
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\Design\bin\Debug\Design.exe.config
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\Design\bin\Debug\Design.exe
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\Design\bin\Debug\Design.pdb
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\Design\obj\Debug\Design.csprojResolveAssemblyReference.cache
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\Design\obj\Debug\Design.csproj.ResolveComReference.cache
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\Design\obj\Debug\Design.Editor.resources
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\Design\obj\Debug\Design.EditorForm.resources
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\Design\obj\Debug\Design.LinkDialog.resources
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\Design\obj\Debug\Design.Properties.Resources.resources
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\Design\obj\Debug\Design.SearchDialog.resources
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\Design\obj\Debug\Design.TextInsertForm.resources
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\Design\obj\Debug\Design.csproj.GenerateResource.Cache
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\Design\obj\Debug\Design.exe
+D:\zone fitness gym programa\Gestor_gym2011\Gestor gimnasio\Design\obj\Debug\Design.pdb
+C:\Users\rolando\Desktop\Gestor gimnasio\Design\bin\Debug\Design.exe.config
+C:\Users\rolando\Desktop\Gestor gimnasio\Design\bin\Debug\Design.exe
+C:\Users\rolando\Desktop\Gestor gimnasio\Design\bin\Debug\Design.pdb
+C:\Users\rolando\Desktop\Gestor gimnasio\Design\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rolando\Desktop\Gestor gimnasio\Design\obj\Debug\Design.csproj.ResolveComReference.cache
+C:\Users\rolando\Desktop\Gestor gimnasio\Design\obj\Debug\Design.Editor.resources
+C:\Users\rolando\Desktop\Gestor gimnasio\Design\obj\Debug\Design.EditorForm.resources
+C:\Users\rolando\Desktop\Gestor gimnasio\Design\obj\Debug\Design.LinkDialog.resources
+C:\Users\rolando\Desktop\Gestor gimnasio\Design\obj\Debug\Design.Properties.Resources.resources
+C:\Users\rolando\Desktop\Gestor gimnasio\Design\obj\Debug\Design.SearchDialog.resources
+C:\Users\rolando\Desktop\Gestor gimnasio\Design\obj\Debug\Design.TextInsertForm.resources
+C:\Users\rolando\Desktop\Gestor gimnasio\Design\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\rolando\Desktop\Gestor gimnasio\Design\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\rolando\Desktop\Gestor gimnasio\Design\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\rolando\Desktop\Gestor gimnasio\Design\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\rolando\Desktop\Gestor gimnasio\Design\obj\Debug\Design.exe
+C:\Users\rolando\Desktop\Gestor gimnasio\Design\obj\Debug\Design.pdb
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\Design\bin\Debug\Design.exe.config
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\Design\bin\Debug\Design.exe
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\Design\bin\Debug\Design.pdb
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\Design\obj\Debug\Design.csprojResolveAssemblyReference.cache
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\Design\obj\Debug\Design.csproj.ResolveComReference.cache
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\Design\obj\Debug\Design.Editor.resources
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\Design\obj\Debug\Design.EditorForm.resources
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\Design\obj\Debug\Design.LinkDialog.resources
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\Design\obj\Debug\Design.Properties.Resources.resources
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\Design\obj\Debug\Design.SearchDialog.resources
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\Design\obj\Debug\Design.TextInsertForm.resources
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\Design\obj\Debug\Design.csproj.GenerateResource.Cache
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\Design\obj\Debug\Design.exe
+F:\Lenguaje C#\Gestor gimnasio\Gestor gimnasio\Design\obj\Debug\Design.pdb
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\Design\bin\Debug\Design.exe.config
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\Design\bin\Debug\Design.exe
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\Design\bin\Debug\Design.pdb
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\Design\obj\Debug\Design.csprojResolveAssemblyReference.cache
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\Design\obj\Debug\Design.csproj.ResolveComReference.cache
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\Design\obj\Debug\Design.Editor.resources
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\Design\obj\Debug\Design.EditorForm.resources
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\Design\obj\Debug\Design.LinkDialog.resources
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\Design\obj\Debug\Design.Properties.Resources.resources
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\Design\obj\Debug\Design.SearchDialog.resources
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\Design\obj\Debug\Design.TextInsertForm.resources
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\Design\obj\Debug\Design.csproj.GenerateResource.Cache
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\Design\obj\Debug\Design.exe
+C:\Users\rolandoantonio\Documents\Gestor gimnasio\Gestor gimnasio\Design\obj\Debug\Design.pdb
